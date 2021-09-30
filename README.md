@@ -15,8 +15,8 @@ npm start
 ```
 ## Video
 
-* Part 1 - 29/09/2021 : [](https://jmp.sh/K4Gth2q)
-* Part 2 - 30/09/2021 : [](https://jmp.sh/MZnHSC7)
+* 29/09/2021 : [Part 1](https://jmp.sh/K4Gth2q)
+* 30/09/2021 : [Part 2](https://jmp.sh/MZnHSC7)
 
 ## Author
 
