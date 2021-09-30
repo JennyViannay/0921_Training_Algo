@@ -13,6 +13,10 @@ npm install
 ```sh
 npm start
 ```
+## Video
+
+* Part 1 - 29/09/2021 : [](https://jmp.sh/K4Gth2q)
+* Part 2 - 30/09/2021 : [](https://jmp.sh/MZnHSC7)
 
 ## Author
 
